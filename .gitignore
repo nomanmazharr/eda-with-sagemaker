@@ -1,2 +1,4 @@
 sagemaker/
 *checkpoint.ipynb
+*checkpoint.py
+__pycache__/
